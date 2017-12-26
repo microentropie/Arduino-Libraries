@@ -1,5 +1,6 @@
 # Arduino-Libraries
-Ready made zips with my Arduino Libraries
+Ready made zips with my Arduino Libraries.
+The repositories are in <..>
 
 Installation
 ------------
