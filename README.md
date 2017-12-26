@@ -1,6 +1,6 @@
 # Arduino-Libraries
 Ready made zips with my Arduino Libraries.
-The repositories are in (<https://github.com/microentropie/>
+The repositories are in (<https://github.com/microentropie>
 
 Installation
 ------------
